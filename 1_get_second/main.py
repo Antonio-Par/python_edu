@@ -11,5 +11,10 @@ def func():
     print(f'There suppose to be something here )))')
 
 
+def another_function():
+    print(f'Another function')
+
+
 if __name__ == '__main__':
     func()
+    another_function()
